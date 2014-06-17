@@ -1,5 +1,9 @@
 require "higem/version"
 
 module Higem
-  # Your code goes here...
+
+    def self.hello
+        puts "Hello!"
+    end
+
 end
