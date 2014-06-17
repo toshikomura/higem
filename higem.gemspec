@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Higem::VERSION
   spec.authors       = ["Gustavo Toshi Komura"]
   spec.email         = ["gustavo.toshi.k@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Hello!.}
+  spec.description   = %q{A simple hello gem.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
