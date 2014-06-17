@@ -14,7 +14,9 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install higem
+    $ git clone https://github.com/toshikomura/higem.git
+    $ gem build higem.gemspec
+    $ gem install higem-(version)
 
 ## Usage
 
