@@ -1,9 +1,9 @@
 require "higem/version"
+require "higem/hello"
 
 module Higem
-
-    def self.hello
-        puts "Hello!"
+    def self.hi
+        Hello.hello
     end
-
 end
+
